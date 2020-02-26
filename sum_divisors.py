@@ -10,3 +10,7 @@ def sum_divisors(n):
 
 print(sum_divisors(6)) # Should be 6 (sum of 1+2+3)
 print(sum_divisors(12)) # Should be 16 (sum of 1+2+3+4+6)
+
+#Incorrect
+#Timed out after 5
+#what???
